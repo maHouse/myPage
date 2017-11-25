@@ -8,6 +8,9 @@ a{
 ul{
 	list-style: none;
 }
+.piclogo{
+	border: 1px solid transparent;
+}
 .minelogo{
 	width: 6rem;
 	height: 6rem;
